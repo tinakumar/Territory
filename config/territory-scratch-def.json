@@ -1,0 +1,16 @@
+{
+  "orgName": "TW",
+  "edition": "Developer",
+  "features": ["Communities", "ServiceCloud"],
+  "settings": {
+      "communitiesSettings": {
+          "enableNetworksEnabled": true
+      },
+      "mobileSettings": {
+          "enableS1EncryptedStoragePref2": true
+      },
+      "caseSettings": {
+          "systemUserEmail": "tinakumar07@gmail.com"
+      }
+  }
+}
